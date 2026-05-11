@@ -74,5 +74,5 @@ JOIN Destinations3 D ON B.destination_id = D.destination_id;
 
 ## Author
 
-Your Name — [github.com/yourusername](https://github.com/yourusername)
+Your Name — Revathy KV
 
